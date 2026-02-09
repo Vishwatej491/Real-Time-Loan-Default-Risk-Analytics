@@ -145,19 +145,6 @@ Real-Time-Loan-Default-Risk-Analytics/
 - ML-driven default prediction
 - Real-time dashboards for decision-makers
 
----
-
-## 🎤 Interview Summary
-
-> *“This project demonstrates a production-style data engineering pipeline using Databricks and PySpark to analyze loan default risk. It integrates Delta Lake for reliability, Spark ML for prediction, and Power BI for real-time business insights.”*
-
----
-
-## 📌 Notes
-
-- Large datasets are intentionally excluded from GitHub  
-- Data resides in Databricks DBFS  
-- GitHub contains only **code, SQL, and documentation**
 
 ---
 
